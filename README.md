@@ -1,4 +1,4 @@
-# Medical-Cos
+# Medic
 
 **Project: Medical Cost Prediction**
 
