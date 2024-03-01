@@ -8,7 +8,7 @@ The "Medical Cost Prediction" project aims to predict medical costs for individu
    - Analyzed crucial features including age, sex, BMI, children, smoker status, region, and medical charges to understand their impact on the prediction of medical costs.
 
 2. **Linear Regression Model:**
-   - Employed Linear Regression, a fundamental predictive modeling technique, to estimate medical costs based on the selected features.
+   - Employed Linear Regression, a fundamental predictive modelling technique, to estimate medical costs based on the selected features.
    - Utilized hyperparameter tuning to enhance the model's performance and predictive accuracy.
 
 **Database Management and Visualization:**
