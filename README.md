@@ -1,4 +1,4 @@
-# Medical-Cost-Predic
+# Medical-Cost-Pr
 
 **Project: Medical Cost Prediction**
 
