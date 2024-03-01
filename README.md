@@ -1,7 +1,7 @@
 # **Project: Medical Cost Prediction**
 
 **Objective:**
-The "Medical Cost Prediction" project aims to predict medical costs for individuals based on relevant features such as age, sex, BMI, number of children, smoker status, region, and charges. Leveraging a Linear Regression model, the analysis involves thorough examination of the data, hyperparameter tuning for model optimization, and implementation of metrics for evaluation. Additionally, the project includes the use of SQL for data storage and employs Seaborn and Matplotlib for effective data visualization.
+The "Medical Cost Prediction" project aims to predict medical costs for individuals based on relevant features such as age, sex, BMI, number of children, smoker status, region, and charges. Leveraging a Linear Regression model, the analysis involves a thorough examination of the data, hyperparameter tuning for model optimization, and implementation of metrics for evaluation. Additionally, the project includes the use of SQL for data storage and employs Seaborn and Matplotlib for effective data visualization.
 
 **Data Analysis and Processing:**
 1. **Data Features:**
